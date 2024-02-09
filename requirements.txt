@@ -64,3 +64,4 @@ webencodings
 Werkzeug
 wincertstore
 wrapt
+PyYAML
